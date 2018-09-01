@@ -16,8 +16,9 @@ Below is a list of the website's features:
 * Install dependencies: npm install 
 * To start development server: npm start
 
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+## Live Demo
+http://hazel_jammming.surge.sh/
 
 
